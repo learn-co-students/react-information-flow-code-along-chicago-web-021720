@@ -13,5 +13,17 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "## Overview",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreatDeveloper66/react-information-flow-code-along-chicago-web-021720.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GreatDeveloper66/react-information-flow-code-along-chicago-web-021720/issues"
+  },
+  "homepage": "https://github.com/GreatDeveloper66/react-information-flow-code-along-chicago-web-021720#readme"
 }
