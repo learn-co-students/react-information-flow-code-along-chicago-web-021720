@@ -5,7 +5,7 @@ class Child extends Component {
   render() {
     console.log(this.props)
     return (
-      <div onClick={() => {this.props.handleColorChange}}
+      <div onClick={() => {this.props.handleColorChange(getRandomColor())}}
         className="child"
         style={{backgroundColor: this.props.color}}
       ></div>
